@@ -1,0 +1,12 @@
+{
+  "raw_dir": "data/Images",
+  "depth_pattern": "Azure{view}_depth_wide.png",
+  "color_pattern": "Azure{view}_color_wide.jpg",
+  "views": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

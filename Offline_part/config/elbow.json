@@ -1,0 +1,7 @@
+{
+  "slab_fraction": 0.15,
+  "flexion_sign": 1,
+  "angles_deg": [0, 30, 60, 90, 120, 150],
+  "axis_robust_keep": 0.85,
+  "axis_robust_iters": 6
+}

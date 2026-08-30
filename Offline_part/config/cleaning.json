@@ -1,0 +1,19 @@
+{
+ 
+
+  "statistical_outlier": {
+    "nb_neighbors": 20,
+    "std_ratio": 2.0
+  },
+
+  "radius_outlier": {
+    "nb_points": 12,
+    "radius": 0.012
+  },
+
+  "dbscan": {
+    "eps": 0.010,
+    "min_points": 10
+  }
+
+}

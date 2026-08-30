@@ -1,0 +1,11 @@
+{
+  "sensor": "Azure Kinect DK - depth camera",
+  "mode": "WFOV_2X2BINNED",
+  "width": 512,
+  "height": 512,
+  "fx": 252.28,
+  "fy": 252.28,
+  "cx": 256.0,
+  "cy": 256.0,
+  "depth_scale_mm": 1.0
+}

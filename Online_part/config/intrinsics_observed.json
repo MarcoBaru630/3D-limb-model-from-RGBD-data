@@ -1,0 +1,13 @@
+{
+  "sensor": "Azure Kinect DK - depth camera",
+  "mode": "NFOV unbinned",
+  "width": 640,
+  "height": 576,
+  "fx": 504.5604,
+  "fy": 504.5604,
+  "cx": 321.6776,
+  "cy": 327.6919,
+  "depth_scale_mm": 1.0,
+  "source": "SDK calibration dump. The observations are 576x640, i.e. NFOV unbinned: a different mode from the offline acquisitions (512x512, WFOV 2x2 binned, fx=252.28). Each set must be back-projected with the intrinsics of its own mode, otherwise observations and models end up at different metric scales.",
+  "note": "Pinhole model without distortion, as in the offline pipeline."
+}

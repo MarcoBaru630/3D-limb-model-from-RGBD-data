@@ -1,0 +1,13 @@
+{
+  "voxel_size": 0.004,
+  "max_correspondence_distance": 0.02,
+  "max_iterations": 200,
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "min_fitness": 0.3
+}

@@ -1,0 +1,10 @@
+{
+  "raw_dir": "data/raw",
+  "observed_pattern": "observed{n}.npy",
+  "observations": [
+    1,
+    2,
+    3
+  ],
+  "model_dir": "../Offline_part/model"
+}
