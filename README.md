@@ -1,4 +1,4 @@
-# AHSI Project — Elbow Angle Estimation from RGBD Data
+# Elbow Angle Estimation from RGBD Data
 
 Estimating the elbow flexion angle from a single RGBD observation, without
 markers.
@@ -12,7 +12,7 @@ model best explains it.
 ## Layout
 
 ```
-Progetto AHSI/
+/
 ├── Offline part/
 │   ├── config/     intrinsics, paths, cleaning, registration, elbow
 │   ├── src/        pipeline scripts
